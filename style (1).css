@@ -17,9 +17,15 @@ img {
   border: 1px solid #ccc;
 }
 
+h1{
+  color: #2c3e50;
+}
+
 .note {
   background-color: #fffbe6;
   border-left: 4px solid #ffcc00;
   padding: 1em;
   margin-top: 2em;
 }
+
+
